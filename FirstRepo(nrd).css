@@ -1,0 +1,41 @@
+/* Git Terminal and GITHUB Testing */
+/* Neil Denning */
+
+*{
+    padding: 0px;
+    margin: 0px auto;
+    outline: 1px solid red;
+}
+
+body{
+    background-color: rgb(107, 135, 209);
+}
+
+img{
+    max-height: 300px;
+    max-width: 400px;
+    height: 300px;
+    widows:  400px;
+}
+
+#wrapper{
+    min-height: 300px;
+    width: 970px;
+    border: 10px groove rgb(160,160,160);
+}
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 34px;
+    color: rgb(51, 86, 138);
+    text-shadow: 2px 2px 2px black;
+}
+
+p{
+    background-color: rgb(33, 42, 73);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 18px;
+    letter-spacing: 2px;    
+    color: rgb(79, 211, 216);
+    text-shadow: 1px 1px 1px rgb(87, 87, 87);
+}
