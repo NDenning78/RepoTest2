@@ -4,7 +4,7 @@
 *{
     padding: 0px;
     margin: 0px auto;
-    outline: 1px solid red;
+    /* outline: 1px solid red; */
 }
 
 body{
@@ -28,7 +28,7 @@ img{
 h1{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 34px;
-    color: rgb(190, 185, 107);
+    color: rgb(190, 164, 107);
     text-shadow: 2px 2px 2px black;
 }
 
